@@ -1,4 +1,5 @@
 ### Hi there 👋
+I’m currently working on ... getting my Masters in Applied Data Science at Syracuse University
 
 <!--
 **atrain400/atrain400** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
